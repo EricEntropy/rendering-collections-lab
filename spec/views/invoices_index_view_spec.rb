@@ -1,5 +1,5 @@
 require "rails_helper"
-
+system('clear')
 RSpec.describe "invoices_index_view" do
   # let(:classroom) { Classroom.create(course_name: 'Math', semester: "Spring #{Time.now.year}") }
 
